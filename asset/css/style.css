@@ -1,0 +1,201 @@
+*{
+    font-family: "IBM Plex Sans Arabic", sans-serif;
+    padding: 10px;
+}
+/* body{
+    zoom: .5;
+    height: auto;
+} */
+.first{
+/* position: relative;
+top: 80px;
+bottom: 100px;
+left: 200px; */
+    height: auto;
+    width:auto;
+    background-color:whitesmoke;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 60px;
+    padding-left: 60px;
+}
+.second{
+    height: auto;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+} 
+.order{
+    width: 463px;
+    height: 530px;
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: 2px;
+    position: relative;
+    left: 653px;
+    top: -1016px;
+
+}
+.text{
+    width: 500px;
+    margin: 13px;
+    height: 46px;
+    border-radius: 10px; 
+    border-color: whitesmoke;
+    border-width: 1px;
+}
+
+#shippingtext{
+    height: 60px;
+}
+#cardid{
+    border-radius: 10px;
+    width: 500px;
+    border-color: whitesmoke;
+    border-width: 2px;
+}
+#month{
+border-radius: 10px;
+border-color: whitesmoke;
+width: 204px;
+}
+#cvv{
+    border-radius: 10px;
+    border-color: whitesmoke;
+    width: 204px;
+}
+#pay{
+    color: white;
+    border-radius: 10px;
+    background-color:  black;
+    width: 155px;
+}
+#labelpay{
+    position: relative;
+    top: -23px;
+    left: 10px;
+}
+#card{
+    position: relative;
+    top: 48px;
+    left: 0px;
+}
+#netbanking{
+    position: relative;
+    top: 37px;
+    left: 7px;
+}
+#wallet{
+    position: relative;
+    top: 29px;
+    left: 10px;
+}
+body{
+    padding: 0px;
+}
+#jeans{
+    position: relative;
+    top: -73px;
+    left: 37px
+}
+#size1{
+    position: relative;
+    top: -31px;
+    left: -116px;
+}
+
+#color1{
+    position: relative;
+    top: -31px;
+    left: -121px;
+}
+#cost1{
+    position: relative;
+    top: -11px;
+    left: 162px;
+}
+#shirt{
+    position: relative;
+    top: -76px;
+    left: 78px;
+}
+#size2{position: relative;
+    top: -36px;
+    left: -71px;
+
+}
+#color2{
+    position: relative;
+    top: -36px;
+    left: -77px;
+}
+#cost2{
+ 
+    position: relative;
+    top: -13px;
+    left: 163px;
+}
+#img2{
+    position: relative;
+    top: 6px;
+    left: 22px;
+}
+#express{
+    position: relative;
+    top: 1px;
+    left: 131px;
+}
+#discount{
+    position: relative;
+    top: 1px;
+    left: 128px;
+}
+#total{
+    position: relative;
+    top: 0px;
+    left: 161px;
+}
+#totalsum{
+    background-color: whitesmoke;
+    height: 43px;
+    width: 444px;
+}
+  #alogin{position: relative;
+    top: 6px;
+    left: -543px;
+    height: 24px;
+}
+#baddress{
+    position: relative;
+    top: -1px;
+    left: -546px;
+} 
+#change1{
+    
+    position: relative;
+    top: 11px;
+    left: -149px;
+}#change2{
+    
+    position: relative;
+    top: -4px;
+    left: -158px;
+}
+#anchorcart{
+    color: black;
+    text-decoration-style: none;
+}
+#loginimage{
+    position: relative;
+    top: 33px;
+    left: -641px;
+    height: 49px;
+}
+#addressimage{
+    position: relative;
+    top: 41px;
+    left: -645px;
+    height: 70px;
+}
